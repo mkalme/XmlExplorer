@@ -1,0 +1,183 @@
+<root>
+	<file extension="DOC" description="Microsoft Word Document" />
+	<file extension="DOCX" description="Microsoft Word Open XML Document" />
+	<file extension="LOG" description="Log" />
+	<file extension="MSG" description="Outlook Mail Message" />
+	<file extension="ODT" description="OpenDocument Text Document" />
+	<file extension="PAGES" description="Pages Document" />
+	<file extension="RTF" description="Rich Text Format" />
+	<file extension="TEX" description="LaTeX Source Document" />
+	<file extension="TXT" description="Plain Text" />
+	<file extension="WPD" description="WordPerfect Document" />
+	<file extension="WPS" description="Microsoft Works Word Processor Document" />
+	<file extension="CSV" description="Comma Separated Values" />
+	<file extension="DAT" description="Data" />
+	<file extension="GED" description="GEDCOM Genealogy Data" />
+	<file extension="KEY" description="Keynote Presentation" />
+	<file extension="KEYCHAIN" description="Mac OS X Keychain" />
+	<file extension="PPS" description="PowerPoint Slide Show" />
+	<file extension="PPT" description="PowerPoint Presentation" />
+	<file extension="PPTX" description="PowerPoint Open XML Presentation" />
+	<file extension="SDF" description="Standard Data" />
+	<file extension="TAR" description="Consolidated Unix  Archive" />
+	<file extension="TAX2016" description="TurboTax 2016 Tax Return" />
+	<file extension="TAX2018" description="TurboTax 2018 Tax Return" />
+	<file extension="VCF" description="vCard" />
+	<file extension="XML" description="XML" />
+	<file extension="AIF" description="Audio Interchange  Format" />
+	<file extension="IFF" description="Interchange  Format" />
+	<file extension="M3U" description="Media Playlist" />
+	<file extension="M4A" description="MPEG-4 Audio" />
+	<file extension="MID" description="MIDI" />
+	<file extension="MP3" description="MP3 Audio" />
+	<file extension="MPA" description="MPEG-2 Audio" />
+	<file extension="WAV" description="WAVE Audio" />
+	<file extension="WMA" description="Windows Media Audio" />
+	<file extension="3G2" description="3GPP2 Multimedia" />
+	<file extension="3GP" description="3GPP Multimedia" />
+	<file extension="ASF" description="Advanced Systems Format" />
+	<file extension="AVI" description="Audio Video Interleave" />
+	<file extension="FLV" description="Flash Video" />
+	<file extension="M4V" description="iTunes Video" />
+	<file extension="MOV" description="Apple QuickTime Movie" />
+	<file extension="MP4" description="MPEG-4 Video" />
+	<file extension="MPG" description="MPEG Video" />
+	<file extension="RM" description="RealMedia" />
+	<file extension="SRT" description="SubRip Subtitle" />
+	<file extension="SWF" description="Shockwave Flash Movie" />
+	<file extension="VOB" description="DVD Video Object" />
+	<file extension="WMV" description="Windows Media Video" />
+	<file extension="3DM" description="Rhino 3D Model" />
+	<file extension="3DS" description="3D Studio Scene" />
+	<file extension="MAX" description="3ds Max Scene" />
+	<file extension="OBJ" description="Wavefront 3D Object" />
+	<file extension="BMP" description="Bitmap Image" />
+	<file extension="DDS" description="DirectDraw Surface" />
+	<file extension="GIF" description="Graphical Interchange Format" />
+	<file extension="HEIC" description="High Efficiency Image Format" />
+	<file extension="JPG" description="JPEG Image" />
+	<file extension="PNG" description="Portable Network Graphic" />
+	<file extension="PSD" description="Adobe Photoshop Document" />
+	<file extension="PSPIMAGE" description="PaintShop Pro Image" />
+	<file extension="TGA" description="Targa Graphic" />
+	<file extension="THM" description="Thumbnail Image" />
+	<file extension="TIF" description="Tagged Image" />
+	<file extension="TIFF" description="Tagged Image  Format" />
+	<file extension="YUV" description="YUV Encoded Image" />
+	<file extension="AI" description="Adobe Illustrator" />
+	<file extension="EPS" description="Encapsulated PostScript" />
+	<file extension="PS" description="PostScript" />
+	<file extension="SVG" description="Scalable Vector Graphics" />
+	<file extension="INDD" description="Adobe InDesign Document" />
+	<file extension="PCT" description="Picture" />
+	<file extension="PDF" description="Portable Document Format" />
+	<file extension="XLR" description="Works Spreadsheet" />
+	<file extension="XLS" description="Excel Spreadsheet" />
+	<file extension="XLSX" description="Microsoft Excel Open XML Spreadsheet" />
+	<file extension="ACCDB" description="Access 2007 Database" />
+	<file extension="DB" description="Database" />
+	<file extension="DBF" description="Database" />
+	<file extension="MDB" description="Microsoft Access Database" />
+	<file extension="PDB" description="Program Database" />
+	<file extension="SQL" description="Structured Query Language Data" />
+	<file extension="APK" description="Android Package" />
+	<file extension="APP" description="macOS Application" />
+	<file extension="BAT" description="DOS Batch" />
+	<file extension="CGI" description="Common Gateway Interface Script" />
+	<file extension="COM" description="DOS Command" />
+	<file extension="EXE" description="Windows Executable" />
+	<file extension="GADGET" description="Windows Gadget" />
+	<file extension="JAR" description="Java Archive" />
+	<file extension="WSF" description="Windows Script" />
+	<file extension="B" description="Grand Theft Auto 3 Saved Game" />
+	<file extension="DEM" description="Video Game Demo" />
+	<file extension="GAM" description="Saved Game" />
+	<file extension="NES" description="Nintendo (NES) ROM" />
+	<file extension="ROM" description="N64 Game ROM" />
+	<file extension="SAV" description="Saved Game" />
+	<file extension="DWG" description="AutoCAD Drawing Database" />
+	<file extension="DXF" description="Drawing Exchange Format" />
+	<file extension="GPX" description="GPS Exchange" />
+	<file extension="KML" description="Keyhole Markup Language" />
+	<file extension="KMZ" description="Google Earth Placemark" />
+	<file extension="ASP" description="Active Server Page" />
+	<file extension="ASPX" description="Active Server Page Extended" />
+	<file extension="CER" description="Internet Security Certificate" />
+	<file extension="CFM" description="ColdFusion Markup" />
+	<file extension="CSR" description="Certificate Signing Request" />
+	<file extension="CSS" description="Cascading Style Sheet" />
+	<file extension="DCR" description="Shockwave Media" />
+	<file extension="HTM" description="Hypertext Markup Language" />
+	<file extension="HTML" description="Hypertext Markup Language" />
+	<file extension="JS" description="JavaScript" />
+	<file extension="JSP" description="Java Server Page" />
+	<file extension="PHP" description="PHP Source Code" />
+	<file extension="RSS" description="Rich Site Summary" />
+	<file extension="XHTML" description="Extensible Hypertext Markup Language" />
+	<file extension="CRX" description="Chrome Extension" />
+	<file extension="PLUGIN" description="Mac OS X Plugin" />
+	<file extension="FNT" description="Windows Font" />
+	<file extension="FON" description="Generic Font" />
+	<file extension="OTF" description="OpenType Font" />
+	<file extension="TTF" description="TrueType Font" />
+	<file extension="CAB" description="Windows Cabinet " />
+	<file extension="CPL" description="Windows Control Panel Item" />
+	<file extension="CUR" description="Windows Cursor" />
+	<file extension="DESKTHEMEPACK" description="Windows 8 Desktop Theme Pack" />
+	<file extension="DLL" description="Dynamic Link Library" />
+	<file extension="DMP" description="Windows Memory Dump" />
+	<file extension="DRV" description="Device Driver" />
+	<file extension="ICNS" description="macOS Icon Resource" />
+	<file extension="ICO" description="Icon" />
+	<file extension="LNK" description="Windows  Shortcut" />
+	<file extension="SYS" description="Windows System" />
+	<file extension="CFG" description="Configuration" />
+	<file extension="INI" description="Windows Initialization" />
+	<file extension="PRF" description="Outlook Profile" />
+	<file extension="HQX" description="BinHex 40 Encoded" />
+	<file extension="MIM" description="Multi-Purpose Internet Mail Message" />
+	<file extension="UUE" description="Uuencoded" />
+	<file extension="7Z" description="7-Zip Compressed" />
+	<file extension="CBR" description="Comic Book RAR Archive" />
+	<file extension="DEB" description="Debian Software Package" />
+	<file extension="GZ" description="Gnu Zipped Archive" />
+	<file extension="PKG" description="Mac OS X Installer Package" />
+	<file extension="RAR" description="WinRAR Compressed Archive" />
+	<file extension="RPM" description="Red Hat Package Manager " />
+	<file extension="SITX" description="StuffIt X Archive" />
+	<file extension="TARGZ" description="Compressed Tarball" />
+	<file extension="ZIP" description="Zipped" />
+	<file extension="ZIPX" description="Extended Zip" />
+	<file extension="BIN" description="Binary Disc Image" />
+	<file extension="CUE" description="Cue Sheet" />
+	<file extension="DMG" description="Mac OS X Disk Image" />
+	<file extension="ISO" description="Disc Image" />
+	<file extension="MDF" description="Media Disc Image" />
+	<file extension="TOAST" description="Toast Disc Image" />
+	<file extension="VCD" description="Virtual CD" />
+	<file extension="C" description="C/C++ Source Code" />
+	<file extension="CLASS" description="Java Class" />
+	<file extension="CPP" description="C++ Source Code" />
+	<file extension="CS" description="C# Source Code" />
+	<file extension="DTD" description="Document Type Definition" />
+	<file extension="FLA" description="Adobe Animate Animation" />
+	<file extension="H" description="C/C++/Objective-C Header" />
+	<file extension="JAVA" description="Java Source Code" />
+	<file extension="LUA" description="Lua Source" />
+	<file extension="M" description="Objective-C Implementation" />
+	<file extension="PL" description="Perl Script" />
+	<file extension="PY" description="Python Script" />
+	<file extension="SH" description="Bash Shell Script" />
+	<file extension="SLN" description="Visual Studio Solution" />
+	<file extension="SWIFT" description="Swift Source Code" />
+	<file extension="VB" description="Visual Basic Project Item" />
+	<file extension="VCXPROJ" description="Visual C++ Project" />
+	<file extension="XCODEPROJ" description="Xcode Project" />
+	<file extension="BAK" description="Backup" />
+	<file extension="TMP" description="Temporary" />
+	<file extension="CRDOWNLOAD" description="Chrome Partially Downloaded" />
+	<file extension="ICS" description="Calendar" />
+	<file extension="MSI" description="Windows Installer Package" />
+	<file extension="PART" description="Partially Downloaded" />
+	<file extension="TORRENT" description="BitTorrent" />
+</root>
